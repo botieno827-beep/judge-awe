@@ -1,0 +1,8 @@
+.makefun/skill.md
+.makefun/requirements.json
+.makefun/draft/
+.makefun/grade-*/
+.makefun/verify-*/
+.makefun/transcripts.tar.gz
+.makefun/check*.json
+.makefun-skill-current.md
